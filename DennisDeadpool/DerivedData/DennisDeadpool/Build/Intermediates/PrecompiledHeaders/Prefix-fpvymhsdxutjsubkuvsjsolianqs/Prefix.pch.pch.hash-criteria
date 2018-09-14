@@ -1,0 +1,23 @@
+-x
+c
+-arch
+armv7
+-std=gnu99
+-fpascal-strings
+-O0
+-DDEBUG
+-DCOCOS2D_DEBUG=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk
+-miphoneos-version-min=7.0
+-g
+-fembed-bitcode-marker
+-iquote
+-iquote
+-I/Users/Dennis/Desktop/DENNIS/apps/iPhone/2014 XD/Game/DennisDeadpool/DerivedData/DennisDeadpool/Build/Products/Debug-iphoneos/include
+-IDennisDeadpool/libs/kazmath/include
+-F/Users/Dennis/Desktop/DENNIS/apps/iPhone/2014 XD/Game/DennisDeadpool/DerivedData/DennisDeadpool/Build/Products/Debug-iphoneos
+arm-apple-darwin15.4.0
+"4.2.1 Compatible Apple LLVM 7.3.0 (clang-703.0.31)"
+SDK_PRODUCT_BUILD_VERSION=13E230
+13E230
